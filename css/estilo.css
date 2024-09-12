@@ -129,6 +129,11 @@
     background-color: aqua;
 }
 
+#menu-flexbox li{
+    margin: 0 4px;
+}
+
+
 #menu-flexbox li a{
     font-size: xx-small;
     padding: 10px 10px;
