@@ -107,6 +107,14 @@
     background-color: #e26d6d;
 }
 
+#menu-pag02 li a{
+    font-size: xx-small;
+    padding: 10px 10px;
+    justify-content:flex-start;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
 .conteudo{
     display: flex;
     flex: 2;
